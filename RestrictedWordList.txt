@@ -1,0 +1,1 @@
+hack,hacker,hackear,hacking,crack,cracking,hashing,pishing,ransomware,malware,infectar,pharming,virus,ddos,ip,dns,cripto,ssl,ssh,binario,csrf,xss,vulnerable,vulnerabilidad,explotar,bug,jwt,rsa,md5,aes,http,tls,exploit
